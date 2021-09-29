@@ -1,0 +1,41 @@
+.container{
+    max-width: 1024px;
+    width: 1024px;
+    margin: 0 auto;
+    padding: 15px;
+}
+
+section.header ul{
+    list-style: none;
+    padding-left: 0;
+}
+
+header h1{
+    text-align: center;
+}
+
+header h1, header h2{
+    background-color: #f0f0f0;
+    color:#a4a400;
+    text-decoration: underline;
+}
+
+.comment__section .comment{
+    background-color: #ffffa8;
+    margin: 10px 0;
+}
+
+.links__section a{
+    display: block;
+    color: #a4a400 ;
+} 
+
+footer .container{ 
+    width: 100%;
+    
+}
+
+footer .container .footer__right{
+    width: 30%;
+    float: right;
+}
